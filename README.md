@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zamakh01
 - 👀 I’m interested in C, digital circuit design, analog circuit design 
-- 🌱 I’m currently learning C/C++ in Ecole 42
+- 🌱 I’m currently learning C/C++ in Ecole 42, robotics in Moscow aviation institute
 - 📫 How to reach me: zamakh01@ya.ru or 
                       www.vk.com/destoringer
 
